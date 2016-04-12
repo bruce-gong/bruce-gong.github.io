@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Syntax Highlighting Post
-description: "Demo post displaying the various ways of highlighting code in Markdown."
-modified: 2014-12-23
-tags: [sample post, code, highlighting]
-categories: [intro]
+title: Migrate from AngularJS 1.3 to 1.5
+description: "Steps to migrate from AngularJS 1.3 to 1.5"
+modified: 2016-04-12
+tags: [AngularJS, Front End, Web Development]
+categories: [AngularJS]
 ---
 
 Syntax highlighting is a feature that displays source code, in different colors and fonts according to the category of terms. This feature facilitates writing in a structured language such as a programming language or a markup language as both structures and syntax errors are visually distinct. Highlighting does not affect the meaning of the text itself; it is intended only for human readers.[^1]

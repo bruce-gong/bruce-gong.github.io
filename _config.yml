@@ -18,6 +18,8 @@ url: http://bruce2045.github.io
 menu:
   - title: 'Home'
     url: '/'
+  - title: 'About'
+    url: '/about'
   - title: 'Fork'
     url: 'https://github.com/bruce2045/bruce2045.github.io'
   - title: 'Tags'
